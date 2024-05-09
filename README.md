@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=whosh1lly&label=Profile%20views&color=0e75b6&style=flat" alt="whosh1lly" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/whosh1lly](https://github.com/whosh1lly)
+- 👨‍💻 All of my projects are available at [https://github.com/iamrutra](https://github.com/iamrutra)
 
-- 📫 How to reach me **sh1llyxdd@gmail.com**
+- 📫 How to reach me **iamrutra@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
