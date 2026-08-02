@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Artur</h1>
-<h3 align="center">A passionate developer from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/68/ae/bf/68aebf4c71bd1d6090f87237272b01e5.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrutra&label=Profile%20views&color=0e75b6&style=flat" alt="iamrutra" /> </p>
